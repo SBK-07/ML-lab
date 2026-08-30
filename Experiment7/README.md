@@ -23,10 +23,4 @@ This experiment systematically evaluates the impact of Principal Component Analy
 
 ## Files Included
 - `Experiment_7_PCA_Model_Evaluation.ipynb`: Primary Jupyter Notebook updated with `rules.md` compliant functions and plot formatting.
-- `Experiment_7_Report.tex`: Full LaTeX report with 600 DPI EPS figure inclusions.
-- `exp7_eda_12_subplots.eps` / `.png`: Consolidated 12-subplot EDA figure grid (600 DPI).
-- `fig_pca_scree.eps`: Cumulative explained variance scree plot.
-- `fig_performance_comparison.eps`: Model performance comparison chart across metrics.
-- `fig_generalization_gap.eps`: Generalization gap comparison bar chart.
-- `fig_roc_curves.eps`: ROC curve evaluation plot.
-- `fig_confusion_matrix_stacking.eps`: Confusion matrix visualization.
+
